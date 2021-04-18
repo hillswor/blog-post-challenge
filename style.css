@@ -9,7 +9,6 @@ h1 {
 }
 
 img {
-	display: block;
 	width: 200px;
 	height: 200px;
 }
@@ -22,6 +21,7 @@ span {
 p {
 	font-size: 14px;
 	color: #999999;
+	line-height: 20px;
 }
 
 .meta {
